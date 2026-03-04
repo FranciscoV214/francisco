@@ -1,0 +1,3 @@
+print("Contador de 1 a 10")
+for i in [1,2,3,4,5,6,7,8,9,10]: #El for funciona dandole a la variable indice i el contenido de una posición de la lista, luego se le asigna el siguiente y así...
+    print("Numero: ", i)
